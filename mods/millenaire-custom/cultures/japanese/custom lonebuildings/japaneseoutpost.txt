@@ -1,0 +1,32 @@
+name:Zenshou
+weight:10
+radius:70
+
+mindistancefromspawn:1000
+
+biome:plains
+
+//biomes o plenty
+biome:Moor
+biome:Tundra
+biome:Highland
+biome:Scrubland
+biome:Arctic
+biome:Field
+biome:Grassland
+biome:Outback
+biome:Dunes
+biome:Oasis
+biome:Steppe
+biome:Wasteland
+biome:Garden
+biome:Heathland
+biome:Pasture
+biome:Prairie
+biome:Quagmire
+biome:Savanna
+biome:Shield
+biome:Shrubland
+
+//starting buildings:
+centre:japaneseoutpost

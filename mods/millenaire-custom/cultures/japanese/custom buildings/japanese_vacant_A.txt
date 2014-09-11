@@ -1,0 +1,4 @@
+native:Akiya;English:Vacant House;around:4;startLevel:-1;orientation:1;width:11;length:12
+priority:67
+priority:45;pathlevel:1
+priority:20

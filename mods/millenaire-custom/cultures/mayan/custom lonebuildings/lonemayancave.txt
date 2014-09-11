@@ -1,0 +1,25 @@
+name:Ch'en
+weight:10
+radius:15
+biome:forest
+biome:swampland
+biome:foresthills
+
+//biomes o plenty
+biome:Wetland
+biome:Dead Forest
+biome:Dead Forest (Snow)
+biome:Mountain
+biome:Rainforest
+biome:Redwood Forest
+biome:Temperate Rainforest
+biome:Thicket
+biome:Tropics
+
+//extraBiomes mod
+biome:lush swamplands
+biome:rainforest
+biome:jungle
+
+//starting buildings:
+centre:lonemayancave

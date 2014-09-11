@@ -1,0 +1,63 @@
+name:Jub'uy
+weight:10
+carriesraid:true
+
+
+biome:plains
+biome:swampland
+
+//biomes o plenty
+biome:Bamboo Forest
+biome:Cherry Blossom Grove
+biome:Frost Forest
+biome:Maple Woods
+biome:Seasonal Forest
+biome:Arctic
+biome:Field
+
+//extraBiomes mod
+biome:lush swampland
+biome:jungle
+biome:rainforest
+
+pathmaterial:pathdirt
+pathmaterial:pathslabs
+
+//starting buildings:
+centre:mayanpyramid
+start:mayanhouse
+start:mayanlumber
+start:mayanmining
+start:mayangrove
+start:mayanguard
+start:mayan_vacant
+
+player:mayanplayersmallfield
+player:mayanplayersmallhouse
+player:mayanplayerlargefield
+player:mayanplayerhugefield
+player:mayanplayerestate
+player:mayanplayerlargehouse
+player:gifthouse
+
+//to be built in priority
+core:mayancrafter
+core:mayanmining
+core:mayancornfarm
+core:mayanlargepeasanthouse
+core:mayanarmyforge
+core:mayanobsidiancrafter
+
+//to be built after the core ones
+secondary:mayanwatchtower
+secondary:mayanalter
+secondary:mayansheepchickenfarm
+secondary:mayansculptorhouse
+secondary:mayanmarket
+secondary:mayancacaofarm
+secondary:mayanshamangrounds
+
+//never for this type of village
+never:mayantemple
+never:mayancistern
+never:mayancalendar

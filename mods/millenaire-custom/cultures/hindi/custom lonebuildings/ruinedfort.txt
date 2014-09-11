@@ -1,0 +1,25 @@
+name:Purana Qila
+weight:2
+radius:15
+
+mindistancefromspawn:1000
+
+biome:desert
+biome:deserthills
+
+//biomes o plenty
+biome:Lush Desert
+biome:Mesa
+biome:Tundra
+biome:Desert
+biome:Dunes
+biome:Oasis
+biome:Steppe
+biome:Wasteland
+
+
+//extraBiomes mod
+biome:mountain desert
+
+//starting buildings:
+centre:ruinedfort

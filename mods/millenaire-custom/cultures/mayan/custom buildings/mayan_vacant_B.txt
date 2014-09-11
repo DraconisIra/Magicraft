@@ -1,0 +1,8 @@
+native:Mixmaak Nah;English:Vacant House;around:4;startLevel:-1;orientation:2;length:10;width:10
+priority:10
+
+
+
+
+
+pathlevel:1

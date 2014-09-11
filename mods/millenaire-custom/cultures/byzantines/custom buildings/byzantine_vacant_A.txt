@@ -1,0 +1,5 @@
+English:Vacant House;Native:κενή Σπίτι;around:4;startLevel:-1;orientation:2;length:8;width:5
+
+priority:10
+
+pathlevel:1

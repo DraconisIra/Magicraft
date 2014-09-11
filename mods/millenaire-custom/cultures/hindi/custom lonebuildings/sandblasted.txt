@@ -1,0 +1,22 @@
+name:Sunsan Saray
+weight:1000
+radius:10
+biome:desert
+biome:deserthills
+
+//biomes o plenty
+biome:Lush Desert
+biome:Mesa
+biome:Tundra
+biome:Desert
+biome:Dunes
+biome:Oasis
+biome:Steppe
+biome:Wasteland
+
+
+//extraBiomes mod
+biome:mountain desert
+
+//starting buildings:
+centre:sandblasted

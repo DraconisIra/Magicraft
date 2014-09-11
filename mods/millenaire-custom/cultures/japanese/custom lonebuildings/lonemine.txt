@@ -1,0 +1,42 @@
+name:Kouku
+
+
+weight:10
+radius:20
+biome:forest
+biome:foresthills
+
+//biomes o plenty
+biome:Wetland
+biome:Dead Forest
+biome:Dead Forest (Snow)
+biome:Mountain
+biome:Rainforest
+biome:Redwood Forest
+biome:Temperate Rainforest
+biome:Thicket
+biome:Tropics
+biome:Bamboo Forest
+biome:Cherry Blossom Grove
+biome:Frost Forest
+biome:Maple Woods
+biome:Seasonal Forest
+biome:Birch Forest
+biome:Boreal Forest
+biome:Coniferous Forest
+biome:Coniferous Forest (Snow)
+biome:Deciduous Forest
+biome:Fen
+biome:Fungi Forest
+biome:Grove
+biome:Hot Springs
+biome:Mystic Grove
+biome:Ominous Woods
+biome:Orchard
+biome:Origin Valley
+biome:Spruce Woods
+biome:Timber
+biome:Tropical Rainforest
+
+//starting buildings:
+centre:lonemine

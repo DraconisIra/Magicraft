@@ -1,0 +1,65 @@
+name:Château félon
+weight:4
+radius:20
+carriesraid:true
+
+mindistancefromspawn:1000
+
+biome:forest
+biome:plains
+biome:taiga
+biome:extreme hills
+biome:foresthills
+
+//biomes o plentybiome:Mountain
+biome:Rainforest
+biome:Tropics
+biome:Moor
+biome:Highland
+biome:Lush Desert
+biome:Mesa
+biome:Alps
+biome:Badlands
+biome:Canyon
+biome:Glacier
+biome:Icy Hills
+biome:Sacred Springs
+biome:Shield
+biome:Crag
+biome:Wetland
+biome:Dead Forest
+biome:Dead Forest (Snow)
+biome:Redwood Forest
+biome:Temperate Rainforest
+biome:Thicket
+biome:Birch Forest
+biome:Boreal Forest
+biome:Origin Valley
+biome:Spruce Woods
+biome:Timber
+biome:Bamboo Forest
+biome:Cherry Blossom Grove
+biome:Frost Forest
+biome:Maple Woods
+biome:Seasonal Forest
+biome:Coniferous Forest
+biome:Coniferous Forest (Snow)
+biome:Deciduous Forest
+biome:Fen
+biome:Fungi Forest
+biome:Grove
+biome:Hot Springs
+biome:Mystic Grove
+biome:Ominous Woods
+biome:Orchard
+biome:Tropical Rainforest
+
+//extraBiomes mod
+
+biome:forested island
+biome:autumn woods
+biome:green hills
+biome:forested hills
+
+//starting buildings:
+centre:feloncastle
